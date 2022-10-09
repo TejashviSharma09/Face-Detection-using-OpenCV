@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/FaceDetector.h
+opencv4/opencv2/dnn.hpp
+-
+
+/home/tej/Desktop/FaceDetectionCPP/src/FaceDetector.cpp
+sstream
+-
+vector
+-
+string
+-
+FaceDetector.h
+-
+opencv4/opencv2/opencv.hpp
+-
+
+/home/tej/Desktop/FaceDetectionCPP/src/main.cpp
+opencv4/opencv2/opencv.hpp
+-
+FaceDetector.h
+/home/tej/Desktop/FaceDetectionCPP/src/FaceDetector.h
+

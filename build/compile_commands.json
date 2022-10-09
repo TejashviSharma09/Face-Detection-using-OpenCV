@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tej/Desktop/FaceDetectionCPP/build",
+  "command": "/usr/bin/g++  -DFACE_DETECTION_CONFIGURATION=\\\"/home/tej/Desktop/FaceDetectionCPP/assets/deploy.prototxt\\\" -DFACE_DETECTION_WEIGHTS=\\\"/home/tej/Desktop/FaceDetectionCPP/assets/res10_300x300_ssd_iter_140000_fp16.caffemodel\\\" -I/home/tej/Desktop/FaceDetectionCPP/include -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/OpenCVFaceDetectorCPP.dir/src/main.cpp.o -c /home/tej/Desktop/FaceDetectionCPP/src/main.cpp",
+  "file": "/home/tej/Desktop/FaceDetectionCPP/src/main.cpp"
+},
+{
+  "directory": "/home/tej/Desktop/FaceDetectionCPP/build",
+  "command": "/usr/bin/g++  -DFACE_DETECTION_CONFIGURATION=\\\"/home/tej/Desktop/FaceDetectionCPP/assets/deploy.prototxt\\\" -DFACE_DETECTION_WEIGHTS=\\\"/home/tej/Desktop/FaceDetectionCPP/assets/res10_300x300_ssd_iter_140000_fp16.caffemodel\\\" -I/home/tej/Desktop/FaceDetectionCPP/include -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/OpenCVFaceDetectorCPP.dir/src/FaceDetector.cpp.o -c /home/tej/Desktop/FaceDetectionCPP/src/FaceDetector.cpp",
+  "file": "/home/tej/Desktop/FaceDetectionCPP/src/FaceDetector.cpp"
+}
+]

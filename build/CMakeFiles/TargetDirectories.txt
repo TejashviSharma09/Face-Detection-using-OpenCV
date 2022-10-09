@@ -1,0 +1,3 @@
+/home/tej/Desktop/FaceDetectionCPP/build/CMakeFiles/edit_cache.dir
+/home/tej/Desktop/FaceDetectionCPP/build/CMakeFiles/rebuild_cache.dir
+/home/tej/Desktop/FaceDetectionCPP/build/CMakeFiles/OpenCVFaceDetectorCPP.dir
